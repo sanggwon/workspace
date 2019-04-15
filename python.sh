@@ -11,7 +11,7 @@ pyenv install 3.6.7
 # python global setting
 pyenv global 3.6.7
 # django install 
-pip install django
+pip install django==2.1.8
 # SHELL refresh
 exec "$SHELL"
 
